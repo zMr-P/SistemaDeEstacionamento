@@ -74,7 +74,7 @@ namespace Veiculos.Model
 
                 foreach (object s in veiculos)
                 {
-                    Console.WriteLine($"{s}");
+                    Console.WriteLine(s);
                 }
             }
             else
